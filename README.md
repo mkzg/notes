@@ -1,1 +1,9 @@
-# notes
+# 笔记
+* [学习笔记](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+* [每日复盘](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E6%AF%8F%E6%97%A5%E5%A4%8D%E7%9B%98)
+* [美股大盘](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E7%BE%8E%E8%82%A1%E5%A4%A7%E7%9B%98)
+* [A股大盘](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3AA%E8%82%A1%E5%A4%A7%E7%9B%98)
+* [缠论](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E7%BC%A0%E8%AE%BA)
+* [PA价格行为](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3APA%20label%3A%E4%BB%B7%E6%A0%BC%E8%A1%8C%E4%B8%BA)
+* [威科夫](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E5%A8%81%E7%A7%91%E5%A4%AB)
+* [火花](https://github.com/mkzg/notes/issues?q=is%3Aissue%20state%3Aopen%20label%3A%E7%81%AB%E8%8A%B1)
